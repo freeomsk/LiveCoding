@@ -36,7 +36,7 @@ public class AdjacentNumbersIntoRangesApplication {
                 currentRange.start = previous == null ? currentNum : previous;
                 previous = currentNum;
             }
-            if (currentNum > previous + 1) {
+            if (previous != null && currentNum > previous + 1) {
                 currentRange.end = previous;
                 ranges.add(currentRange);
                 currentRange = null;
