@@ -18,6 +18,7 @@
         <module>firstNonRepeatedNumber</module>
         <module>numberElementsSeries</module>
         <module>removePairsIdenticalCharacters</module>
+        <module>reverseStringUpperCase</module>
     </modules>
 
     <properties>
