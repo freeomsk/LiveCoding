@@ -8,3 +8,4 @@
 ### [Определить, являются ли две строки анаграммами](https://github.com/freeomsk/LiveCoding/tree/master/anagram)
 ### [Посчитать, сколько раз встречаются в строке заданные в массиве числа](https://github.com/freeomsk/LiveCoding/tree/master/countFilteredChars)
 ### [Свернуть соседние по числовому ряду числа в диапазоны](https://github.com/freeomsk/LiveCoding/tree/master/adjacentNumbersIntoRanges)
+### [Удалить пары одинаковых символов, которые стоят рядом](https://github.com/freeomsk/LiveCoding/tree/master/removePairsIdenticalCharacters)
