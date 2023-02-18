@@ -14,7 +14,7 @@ public class GetFirstUniqueLetterApplication {
         System.out.println(firstNonRepeatingCharWithArray(inputStringWithoutDelimiter));
     }
 
-    // 1 вариант - перебором через массив.
+    // 1 вариант - перебором через массив - O(n²).
     public static Character getFirstUniqueLetter(String inputString) {
         if (null == inputString || inputString.isEmpty()) {
             return null;
@@ -35,7 +35,7 @@ public class GetFirstUniqueLetterApplication {
         return null;
     }
 
-    // 2 вариант - перебором без массива.
+    // 2 вариант - перебором без массива - O(n²).
     public static Character firstNonRepeatingCharBruteForceNaive(String inputString) {
         if (null == inputString || inputString.isEmpty()) {
             return null;
@@ -55,7 +55,7 @@ public class GetFirstUniqueLetterApplication {
         return null;
     }
 
-    // 3 вариант - более компактное решение 2 варианта.
+    // 3 вариант - более компактное решение 2 варианта - O(n²).
     public static Character firstNonRepeatingCharBruteForce(String inputString) {
         if (null == inputString || inputString.isEmpty()) {
             return null;
@@ -69,7 +69,7 @@ public class GetFirstUniqueLetterApplication {
         return null;
     }
 
-    // 4 вариант - оптимизированный через Map.
+    // 4 вариант - оптимизированный через Map - O(1).
     public static Character firstNonRepeatingCharWithMap(String inputString) {
         if (null == inputString || inputString.isEmpty()) {
             return null;
