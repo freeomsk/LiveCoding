@@ -6,7 +6,7 @@
 ### [Найти первое не повторяющееся число в массиве](https://github.com/freeomsk/LiveCoding/tree/master/firstNonRepeatedNumber)
 ### [Найти частоту появления цифр(ы) в серии](https://github.com/freeomsk/LiveCoding/tree/master/numberElementsSeries)
 ### [Определить, являются ли две строки анаграммами](https://github.com/freeomsk/LiveCoding/tree/master/anagram)
-### [Определить количество вхождений каждого элемента массива целых чисел]()
+### [Посчитать количество вхождений каждого элемента массива целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/countUniqueElementsArray)
 ### [Посчитать, сколько раз встречаются в строке заданные в массиве числа](https://github.com/freeomsk/LiveCoding/tree/master/countFilteredChars)
 ### [Развернуть строку в обратном порядке с учетом заглавных букв](https://github.com/freeomsk/LiveCoding/tree/master/reverseStringUpperCase)
 ### [Свернуть соседние по числовому ряду числа в диапазоны](https://github.com/freeomsk/LiveCoding/tree/master/adjacentNumbersIntoRanges)
