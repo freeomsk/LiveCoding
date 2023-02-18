@@ -17,6 +17,7 @@
         <module>elementsDoNotOccur</module>
         <module>firstNonRepeatedNumber</module>
         <module>numberElementsSeries</module>
+        <module>removePairsIdenticalCharacters</module>
     </modules>
 
     <properties>
