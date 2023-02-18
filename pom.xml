@@ -19,6 +19,7 @@
         <module>numberElementsSeries</module>
         <module>removePairsIdenticalCharacters</module>
         <module>reverseStringUpperCase</module>
+        <module>countUniqueElementsArray</module>
     </modules>
 
     <properties>
