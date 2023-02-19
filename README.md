@@ -11,5 +11,6 @@
 ### [Посчитать, сколько раз встречаются в строке заданные в массиве числа](https://github.com/freeomsk/LiveCoding/tree/master/countFilteredChars)
 ### [Развернуть строку в обратном порядке с учетом заглавных букв](https://github.com/freeomsk/LiveCoding/tree/master/reverseStringUpperCase)
 ### [Свернуть соседние по числовому ряду числа в диапазоны](https://github.com/freeomsk/LiveCoding/tree/master/adjacentNumbersIntoRanges)
+### [Сжать строку "AAAABBBCCXYZDDDDEEEFFFAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBB" в "A4B3C2XYZD4E3F3A6B28"]()
 ### [Создать строку, состоящую из элементов строкового массива, разделенных заданным набором символов](https://github.com/freeomsk/LiveCoding/tree/master/constructStringWithDelimiter)
 ### [Удалить пары одинаковых символов, которые стоят рядом](https://github.com/freeomsk/LiveCoding/tree/master/removePairsIdenticalCharacters)
