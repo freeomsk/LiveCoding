@@ -20,6 +20,7 @@
         <module>removePairsIdenticalCharacters</module>
         <module>reverseStringUpperCase</module>
         <module>countUniqueElementsArray</module>
+        <module>parseLog</module>
     </modules>
 
     <properties>
