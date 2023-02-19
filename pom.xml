@@ -25,6 +25,7 @@
         <module>compressStringNumberOfLetters</module>
         <module>longestPrefix</module>
         <module>findOfMissingElements</module>
+        <module>deduplicateSymbol</module>
     </modules>
 
     <properties>

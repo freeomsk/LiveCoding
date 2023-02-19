@@ -15,4 +15,5 @@
 ### [Свернуть соседние по числовому ряду числа в диапазоны](https://github.com/freeomsk/LiveCoding/tree/master/adjacentNumbersIntoRanges)
 ### [Сжать строку "AAAABBBCCXYZDDDDEEEFFFAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBB" в "A4B3C2XYZD4E3F3A6B28"](https://github.com/freeomsk/LiveCoding/tree/master/compressStringNumberOfLetters)
 ### [Создать строку, состоящую из элементов строкового массива, разделенных заданным набором символов](https://github.com/freeomsk/LiveCoding/tree/master/constructStringWithDelimiter)
+### [Удалить дубликаты символов из строки]()
 ### [Удалить пары одинаковых символов, которые стоят рядом](https://github.com/freeomsk/LiveCoding/tree/master/removePairsIdenticalCharacters)
