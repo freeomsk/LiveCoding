@@ -23,6 +23,7 @@
         <module>parseLog</module>
         <module>constructStringWithDelimiter</module>
         <module>compressStringNumberOfLetters</module>
+        <module>longestPrefix</module>
     </modules>
 
     <properties>
