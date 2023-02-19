@@ -3,6 +3,7 @@
 ### [Найти в строке первый уникальный символ](https://github.com/freeomsk/LiveCoding/tree/master/getFirstUniqueLetter)
 ### [Найти все уникальные значения в массиве целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/allUniqueElementsArray)
 ### [Найти все элементы первого массива, которые не встречаются во втором](https://github.com/freeomsk/LiveCoding/tree/master/elementsDoNotOccur)
+### [Найти массив пропущенных элементов целочисленного массива]()
 ### [Найти первое не повторяющееся число в массиве](https://github.com/freeomsk/LiveCoding/tree/master/firstNonRepeatedNumber)
 ### [Найти пользователей, которые совершили больше транзакций, чем некоторый порог](https://github.com/freeomsk/LiveCoding/tree/master/parseLog)
 ### [Найти самый длинный повтор символов элементов массива](https://github.com/freeomsk/LiveCoding/tree/master/longestPrefix)
