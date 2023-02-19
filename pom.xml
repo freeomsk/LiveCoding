@@ -21,6 +21,7 @@
         <module>reverseStringUpperCase</module>
         <module>countUniqueElementsArray</module>
         <module>parseLog</module>
+        <module>constructStringWithDelimiter</module>
     </modules>
 
     <properties>
