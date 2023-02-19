@@ -5,7 +5,7 @@
 ### [Найти все элементы первого массива, которые не встречаются во втором](https://github.com/freeomsk/LiveCoding/tree/master/elementsDoNotOccur)
 ### [Найти первое не повторяющееся число в массиве](https://github.com/freeomsk/LiveCoding/tree/master/firstNonRepeatedNumber)
 ### [Найти пользователей, которые совершили больше транзакций, чем некоторый порог](https://github.com/freeomsk/LiveCoding/tree/master/parseLog)
-### [Найти самый длинный повтор символов элементов массива]()
+### [Найти самый длинный повтор символов элементов массива](https://github.com/freeomsk/LiveCoding/tree/master/longestPrefix)
 ### [Найти частоту появления цифр(ы) в серии](https://github.com/freeomsk/LiveCoding/tree/master/numberElementsSeries)
 ### [Определить, являются ли две строки анаграммами](https://github.com/freeomsk/LiveCoding/tree/master/anagram)
 ### [Посчитать количество вхождений каждого элемента массива целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/countUniqueElementsArray)
