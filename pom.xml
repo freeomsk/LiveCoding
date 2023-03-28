@@ -26,6 +26,7 @@
         <module>longestPrefix</module>
         <module>findOfMissingElements</module>
         <module>deduplicateSymbol</module>
+        <module>moveZerosToTail</module>
     </modules>
 
     <properties>
