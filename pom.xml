@@ -27,9 +27,8 @@
         <module>findOfMissingElements</module>
         <module>deduplicateSymbol</module>
         <module>moveZerosToTail</module>
-        <module>PullAllChildrenByParentIdAndPutInDto</module>
         <module>pullAllChildrenByParentIdAndPutInDto</module>
-        <module>pullAllChildrenByParentIdAndPutInDto</module>
+        <module>findIndexOfElementArray</module>
     </modules>
 
     <properties>
