@@ -29,5 +29,23 @@ public class ElementsDoNotOccurApplication {
             } else l++;
             k++;
         }
+
+// 3 вариант
+        int i = 0, j = 0;
+        while (i < arr1.length && j < arr2.length) {
+            if (arr1[i] < arr2[j]) {
+                System.out.println(arr1[i]);
+                i++;
+            } else if (arr1[i] > arr2[j]) {
+                j++;
+            } else { // arr1[i] == arr2[j]
+                i++;
+                j++;
+            }
+        }
+        while (i < arr1.length) {
+            System.out.println(arr1[i]);
+            i++;
+        }
     }
 }
