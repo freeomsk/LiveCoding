@@ -5,7 +5,7 @@
 ### [Найти все уникальные значения в массиве целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/allUniqueElementsArray)
 ### [Найти все элементы первого массива, которые не встречаются во втором](https://github.com/freeomsk/LiveCoding/tree/master/elementsDoNotOccur)
 ### [Найти индекс элемента в отсортированном массиве целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/findIndexOfElementArray)
-### [!Найти максимальное расстояние, на которое можно сесть от других зрителей в одном ряду]()
+### [!Найти максимальное расстояние, на которое можно сесть от других зрителей в одном ряду](https://github.com/freeomsk/LiveCoding/tree/master)
 ### [Найти массив пропущенных элементов целочисленного массива](https://github.com/freeomsk/LiveCoding/tree/master/findOfMissingElements)
 ### [Найти первое не повторяющееся число в массиве](https://github.com/freeomsk/LiveCoding/tree/master/firstNonRepeatedNumber)
 ### [Найти пользователей, которые совершили больше транзакций, чем некоторый порог](https://github.com/freeomsk/LiveCoding/tree/master/parseLog)
