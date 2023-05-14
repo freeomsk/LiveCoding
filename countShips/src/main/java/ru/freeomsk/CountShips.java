@@ -36,7 +36,7 @@ public class CountShips {
     public static int countShips2(int[][] matrix) {
         return IntStream.range(0, matrix.length)
                 .flatMap(i -> IntStream.range(0, matrix[0].length)
-                        .filter(j -> matrix[i][j] == 1 && (i == 0 || matrix[i-1][j] == 0) && (j == 0 || matrix[i][j-1] == 0))
+                        .filter(j -> matrix[i][j] == 1 && (i == 0 || matrix[i - 1][j] == 0) && (j == 0 || matrix[i][j - 1] == 0))
                         .map(j -> 1))
                 .sum();
     }
