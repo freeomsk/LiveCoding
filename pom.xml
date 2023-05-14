@@ -32,6 +32,7 @@
         <module>countShips</module>
         <module>myIterator</module>
         <module>theater</module>
+        <module>findTheLongestBalancedSubstring</module>
     </modules>
 
     <properties>
