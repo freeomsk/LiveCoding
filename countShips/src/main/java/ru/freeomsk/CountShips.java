@@ -1,5 +1,7 @@
 package ru.freeomsk;
 
+import java.util.stream.IntStream;
+
 public class CountShips {
     public static void main(String[] args) {
         int[][] board = {
@@ -11,8 +13,10 @@ public class CountShips {
                 {0, 0, 0, 0, 0, 0}
         };
         System.out.println(countShips(board));
+        System.out.println(countShips2(board));
     }
 
+//    1 вариант
     public static int countShips(int[][] board) {
         int count = 0;
         for (int i = 0; i < board.length; i++) {
@@ -26,5 +30,14 @@ public class CountShips {
             }
         }
         return count;
+    }
+
+//    2 вариант
+    public static int countShips2(int[][] matrix) {
+        return IntStream.range(0, matrix.length)
+                .flatMap(i -> IntStream.range(0, matrix[0].length)
+                        .filter(j -> matrix[i][j] == 1 && (i == 0 || matrix[i-1][j] == 0) && (j == 0 || matrix[i][j-1] == 0))
+                        .map(j -> 1))
+                .sum();
     }
 }
