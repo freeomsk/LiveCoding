@@ -30,6 +30,7 @@
         <module>pullAllChildrenByParentIdAndPutInDto</module>
         <module>findIndexOfElementArray</module>
         <module>countShips</module>
+        <module>myIterator</module>
     </modules>
 
     <properties>
