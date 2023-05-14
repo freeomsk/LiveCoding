@@ -29,6 +29,7 @@
         <module>moveZerosToTail</module>
         <module>pullAllChildrenByParentIdAndPutInDto</module>
         <module>findIndexOfElementArray</module>
+        <module>countShips</module>
     </modules>
 
     <properties>
