@@ -1,6 +1,6 @@
 # Сжать строку "AAAABBBCCXYZDDDDEEEFFFAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBB" в "A4B3C2XYZD4E3F3A6B28"
 
-_Задание на собеседовании в компанию [Yandex](https://yandex.ru) 17.02.2022_
+_Задание на собеседовании в компанию [Yandex](https://yandex.ru)_
 
 ### Задача
 

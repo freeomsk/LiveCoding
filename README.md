@@ -12,6 +12,7 @@
 ### [Найти пользователей, которые совершили больше транзакций, чем некоторый порог](https://github.com/freeomsk/LiveCoding/tree/master/parseLog)
 ### [Найти самый длинный повтор символов элементов массива](https://github.com/freeomsk/LiveCoding/tree/master/longestPrefix)
 ### [Найти частоту появления цифр(ы) в серии](https://github.com/freeomsk/LiveCoding/tree/master/numberElementsSeries)
+### [Найти число, которое присутствует во всех трех массивах]()
 ### [Определить, являются ли две строки анаграммами](https://github.com/freeomsk/LiveCoding/tree/master/anagram)
 ### [Перенести все 0 в конец массива, сохранив порядок](https://github.com/freeomsk/LiveCoding/tree/master/moveZerosToTail)
 ### [Подсчитать количество кораблей на поле для морского боя](https://github.com/freeomsk/LiveCoding/tree/master/countShips)

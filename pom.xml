@@ -33,6 +33,7 @@
         <module>myIterator</module>
         <module>theater</module>
         <module>findTheLongestBalancedSubstring</module>
+        <module>findGeneralNumber</module>
     </modules>
 
     <properties>

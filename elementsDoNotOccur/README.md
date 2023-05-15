@@ -2,8 +2,8 @@
 
 _Задание на собеседовании в компании:_
 
-* [Тинькофф](https://www.tinkoff.ru/) 03.03.2022;
-* [Яндекс](https://yandex.ru/company/) 13.02.2023.
+* [Тинькофф](https://www.tinkoff.ru/);
+* [Яндекс](https://yandex.ru/company/).
 
 ### Задача
 
