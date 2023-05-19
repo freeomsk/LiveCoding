@@ -19,7 +19,7 @@
 ### [Посчитать количество вхождений каждого элемента массива целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/countUniqueElementsArray)
 ### [Посчитать, сколько раз встречаются в строке заданные в массиве числа](https://github.com/freeomsk/LiveCoding/tree/master/countFilteredChars)
 ### [Пульт дистанционного управления](https://github.com/freeomsk/LiveCoding/tree/master/remoteController)
-### [Пульт дистанционного управления (паттерн Strategy)]()
+### [Пульт дистанционного управления (паттерн Strategy)](https://github.com/freeomsk/LiveCoding/tree/master/remoteControllerPatternStrategy)
 ### [Развернуть строку в обратном порядке с учетом заглавных букв](https://github.com/freeomsk/LiveCoding/tree/master/reverseStringUpperCase)
 ### [Реализовать итератор, возвращающий только четные числа](https://github.com/freeomsk/LiveCoding/tree/master/myIterator)
 ### [Свернуть соседние по числовому ряду числа в диапазоны](https://github.com/freeomsk/LiveCoding/tree/master/adjacentNumbersIntoRanges)
