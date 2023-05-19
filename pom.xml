@@ -36,6 +36,7 @@
         <module>findGeneralNumber</module>
         <module>remoteController</module>
         <module>remoteControllerPatternStrategy</module>
+        <module>fibonacciSequence</module>
     </modules>
 
     <properties>

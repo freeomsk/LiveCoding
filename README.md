@@ -27,3 +27,4 @@
 ### [Создать строку, состоящую из элементов строкового массива, разделенных заданным набором символов](https://github.com/freeomsk/LiveCoding/tree/master/constructStringWithDelimiter)
 ### [Удалить дубликаты символов из строки](https://github.com/freeomsk/LiveCoding/tree/master/deduplicateSymbol)
 ### [Удалить пары одинаковых символов, которые стоят рядом](https://github.com/freeomsk/LiveCoding/tree/master/removePairsIdenticalCharacters)
+### [Числа Фибоначчи]()
