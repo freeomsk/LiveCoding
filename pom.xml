@@ -35,6 +35,7 @@
         <module>findTheLongestBalancedSubstring</module>
         <module>findGeneralNumber</module>
         <module>remoteController</module>
+        <module>remoteControllerPatternStrategy</module>
     </modules>
 
     <properties>
