@@ -14,6 +14,7 @@
 ### [Найти частоту появления цифр(ы) в серии](https://github.com/freeomsk/LiveCoding/tree/master/numberElementsSeries)
 ### [Найти число, которое присутствует во всех трех массивах](https://github.com/freeomsk/LiveCoding/tree/master/findGeneralNumber)
 ### [Определить, являются ли две строки анаграммами](https://github.com/freeomsk/LiveCoding/tree/master/anagram)
+### [Парсинг уникальных сообщений Twitter, отсортированных по алфавиту]()
 ### [Перенести все 0 в конец массива, сохранив порядок](https://github.com/freeomsk/LiveCoding/tree/master/moveZerosToTail)
 ### [Подсчитать количество кораблей на поле для морского боя](https://github.com/freeomsk/LiveCoding/tree/master/countShips)
 ### [Посчитать количество вхождений каждого элемента массива целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/countUniqueElementsArray)

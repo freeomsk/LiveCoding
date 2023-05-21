@@ -37,6 +37,9 @@
         <module>remoteController</module>
         <module>remoteControllerPatternStrategy</module>
         <module>fibonacciSequence</module>
+        <module>twitterParser</module>
+        <module>twitterParser</module>
+        <module>twitterParser</module>
     </modules>
 
     <properties>
