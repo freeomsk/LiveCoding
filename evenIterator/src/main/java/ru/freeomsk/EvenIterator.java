@@ -2,20 +2,20 @@ package ru.freeomsk;
 
 import java.util.*;
 
-public class MyIterator implements Iterator<Integer> {
+public class EvenIterator implements Iterator<Integer> {
 
     public static void main(String[] args) {
-        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
-        Iterator<Integer> iter = new MyIterator(list);
-        while (iter.hasNext()) {
-            System.out.println(iter.next());
+        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+        EvenIterator evenIterator = new EvenIterator(numbers);
+        while (evenIterator.hasNext()) {
+            System.out.println(evenIterator.next());
         }
     }
 
     private final Iterator<Integer> iterator;
     private Integer nextEven;
 
-    public MyIterator(Collection<Integer> collection) {
+    public EvenIterator(Collection<Integer> collection) {
         this.iterator = collection.iterator();
         findNextEven();
     }
@@ -23,9 +23,9 @@ public class MyIterator implements Iterator<Integer> {
     private void findNextEven() {
         nextEven = null;
         while (iterator.hasNext()) {
-            Integer val = iterator.next();
-            if (val % 2 == 0) {
-                nextEven = val;
+            Integer current = iterator.next();
+            if (current % 2 == 0) {
+                nextEven = current;
                 break;
             }
         }
@@ -38,11 +38,11 @@ public class MyIterator implements Iterator<Integer> {
 
     @Override
     public Integer next() {
-        if (!hasNext()) {
+        if (nextEven == null) {
             throw new NoSuchElementException();
         }
-        Integer result = nextEven;
+        Integer currentEven = nextEven;
         findNextEven();
-        return result;
+        return currentEven;
     }
 }

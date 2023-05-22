@@ -30,7 +30,6 @@
         <module>pullAllChildrenByParentIdAndPutInDto</module>
         <module>findIndexOfElementArray</module>
         <module>countShips</module>
-        <module>myIterator</module>
         <module>theater</module>
         <module>findTheLongestBalancedSubstring</module>
         <module>findGeneralNumber</module>
@@ -40,6 +39,8 @@
         <module>twitterParser</module>
         <module>twitterParser</module>
         <module>twitterParser</module>
+        <module>getActiveDocuments</module>
+        <module>evenIterator</module>
     </modules>
 
     <properties>
