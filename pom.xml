@@ -41,6 +41,7 @@
         <module>twitterParser</module>
         <module>getActiveDocuments</module>
         <module>evenIterator</module>
+        <module>arrayNeighborhoodSize</module>
     </modules>
 
     <properties>
