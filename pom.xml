@@ -43,6 +43,7 @@
         <module>evenIterator</module>
         <module>arrayNeighborhoodSize</module>
         <module>isSubsequence</module>
+        <module>findMaxConsecutiveOnes</module>
     </modules>
 
     <properties>

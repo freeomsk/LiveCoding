@@ -14,6 +14,7 @@
 ### [Найти самый длинный повтор символов элементов массива](https://github.com/freeomsk/LiveCoding/tree/master/longestPrefix)
 ### [Найти частоту появления цифр(ы) в серии](https://github.com/freeomsk/LiveCoding/tree/master/numberElementsSeries)
 ### [Найти число, которое присутствует во всех трех массивах](https://github.com/freeomsk/LiveCoding/tree/master/findGeneralNumber)
+### [Определить длину максимального интервала из единиц (можно удалить или пропустить не более одного нуля из исходной строки)]()
 ### [Определить, является ли введенная строка подпоследовательностью названия файла](https://github.com/freeomsk/LiveCoding/tree/master/isSubsequence)
 ### [Определить, являются ли две строки анаграммами](https://github.com/freeomsk/LiveCoding/tree/master/anagram)
 ### [Парсинг уникальных сообщений Twitter, отсортированных по алфавиту](https://github.com/freeomsk/LiveCoding/tree/master/twitterParser)
