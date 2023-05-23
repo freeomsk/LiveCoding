@@ -42,6 +42,7 @@
         <module>getActiveDocuments</module>
         <module>evenIterator</module>
         <module>arrayNeighborhoodSize</module>
+        <module>isSubsequence</module>
     </modules>
 
     <properties>
