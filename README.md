@@ -27,7 +27,7 @@
 ### [Пульт дистанционного управления (паттерн Strategy)](https://github.com/freeomsk/LiveCoding/tree/master/remoteControllerPatternStrategy)
 ### [Развернуть строку в обратном порядке с учетом заглавных букв](https://github.com/freeomsk/LiveCoding/tree/master/reverseStringUpperCase)
 ### [Реализовать итератор, возвращающий только четные числа](https://github.com/freeomsk/LiveCoding/tree/master/evenIterator)
-### [Реализовать метод, который вернет коллекцию без дубликатов]()
+### [Реализовать метод, который вернет коллекцию без дубликатов](https://github.com/freeomsk/LiveCoding/tree/master/getCollectionWithoutDuplicate)
 ### [Свернуть соседние по числовому ряду числа в диапазоны](https://github.com/freeomsk/LiveCoding/tree/master/adjacentNumbersIntoRanges)
 ### [Сжать строку "AAAABBBCCXYZDDDDEEEFFFAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBB" в "A4B3C2XYZD4E3F3A6B28"](https://github.com/freeomsk/LiveCoding/tree/master/compressStringNumberOfLetters)
 ### [Создать строку, состоящую из элементов строкового массива, разделенных заданным набором символов](https://github.com/freeomsk/LiveCoding/tree/master/constructStringWithDelimiter)
