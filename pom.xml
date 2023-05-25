@@ -45,6 +45,7 @@
         <module>isSubsequence</module>
         <module>findMaxConsecutiveOnes</module>
         <module>findReplaceableBracket</module>
+        <module>getCollectionWithoutDuplicate</module>
     </modules>
 
     <properties>
