@@ -44,6 +44,7 @@
         <module>arrayNeighborhoodSize</module>
         <module>isSubsequence</module>
         <module>findMaxConsecutiveOnes</module>
+        <module>findReplaceableBracket</module>
     </modules>
 
     <properties>
