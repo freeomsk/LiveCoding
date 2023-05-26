@@ -1,7 +1,7 @@
 # Задачи на собеседованиях в компании
 
 ### [Вытащить всех потомков по id родителя и поместить в DTO](https://github.com/freeomsk/LiveCoding/tree/master/pullAllChildrenByParentIdAndPutInDto)
-### [!Выяснить, можно ли заменить одну из открывающих скобок на закрывающую или наоборот так, чтобы получилась правильная скобочная последовательность](https://github.com/freeomsk/LiveCoding/tree/master/findReplaceableBracket)
+### [Выяснить, можно ли заменить одну из открывающих скобок на закрывающую или наоборот так, чтобы получилась правильная скобочная последовательность](https://github.com/freeomsk/LiveCoding/tree/master/findReplaceableBracket)
 ### [Для каждого элемента массива вывести размер его окрестности](https://github.com/freeomsk/LiveCoding/tree/master/arrayNeighborhoodSize)
 ### [Найти в строке первый уникальный символ](https://github.com/freeomsk/LiveCoding/tree/master/getFirstUniqueLetter)
 ### [Найти все уникальные значения в массиве целых чисел](https://github.com/freeomsk/LiveCoding/tree/master/allUniqueElementsArray)
